@@ -23,4 +23,3 @@ pipeline {
         }
     }
 }
-![image](https://github.com/akankshapha/Test_Jenkins/assets/92541882/911a3648-9883-48aa-bc04-7bea402c4317)
