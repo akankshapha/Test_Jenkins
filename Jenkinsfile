@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {	
             steps {
-                echo 'Peter listen to me, you idiot!'
+                echo 'Hello Peter listen to me, you idiot!'
             }
         }
         stage('Deploy1') {
